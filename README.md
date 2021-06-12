@@ -8,14 +8,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
+# KING FIGHTER BOT
 This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](http://t.me/KiNG_Fighter_Bot) 
+This is the one and only official King fighter вσт made by [ Team KING](http://t.me/KiNG_Fighter_Bot) 
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg)](http://t.me/KiNG_Fighter_Bot)
+[![KING fighter вσт ℓσgσ](https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg)](http://t.me/KiNG_Fighter_Bot)
 
 -------------------------------------------------
 
