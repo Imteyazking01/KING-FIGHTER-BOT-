@@ -1,11 +1,11 @@
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team KING FIGHTER 
 
-# ~ LegendX
+# ~ IMTEYAZ
 # ~ ProBoyX
 # ~ MadBoy
 # ~ Alain
 
-# Global Promote and Demote Plugin by Team UltraX for UltraX UserBot
+# Global Promote and Demote Plugin by Team KING FIGHTER for FIGHTER UserBot
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
