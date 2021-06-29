@@ -9,7 +9,7 @@
 
 
 # KING FIGHTER BOT
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a KING FIGHTER made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official King fighter вσт made by [ Team KING](http://t.me/KiNG_Fighter_Bot) 
 
@@ -27,7 +27,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@legendx22/ULTRA-X)
+## [String Session](https://replit.com/@mdimteyaz/ULTRA-X-1#main.py)
 
 -------------------------------------------------
 
