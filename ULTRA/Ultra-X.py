@@ -30,14 +30,14 @@ TIME = time.asctime(time.localtime())
 #my name 👇
 ULTRAX = "[KING FIGHTER](https://t.me/King_fighter_Bot_support)"
 #my bots repo 👇
-REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
+REPO = "[KING FIGHTER вσт](https://github.com/Imteyazking/KING-FIGHTER-BOT-)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
+GROUP = "[SUPPORT GROUP](https://t.me/King_fighter_Bot_support)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "KING FIGHTER вσт ιѕ ση 🔥 ƒιяє 🔥" 
