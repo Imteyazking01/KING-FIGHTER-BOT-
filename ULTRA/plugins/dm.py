@@ -4,13 +4,13 @@ from ULTRA import CMD_HELP
 from ULTRA.utils import admin_cmd
 from ULTRA import ALIVE_NAME
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "KING FIGHTER"
 
 # Fixed by LEGDND X
 @borg.on(admin_cmd(pattern="dm ?(.*)"))
 async def _(dc):
-    ultrax = bot.uid
-    USERNAME = f"tg://user?id={ultrax}"
+    Kingfighter = bot.uid
+    USERNAME = f"tg://user?id={KING FIGHTER}"
     
     d = dc.pattern_match.group(1)
 
