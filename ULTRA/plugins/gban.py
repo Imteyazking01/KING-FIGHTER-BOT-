@@ -1,7 +1,7 @@
 """ 
 FOR ALL DEVS I EDITED IT 
-(C) @PROBOYX
-(C) @LEGENDX22
+(C) @Imteyaz_king
+(C) @Imteyaz_king
 (C) @Disheartened_007
 """
 from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
@@ -58,7 +58,7 @@ async def get_user_sender_id(user, event):
 
 @borg.on(admin_cmd(pattern="gban ?(.*)"))
 @borg.on(sudo_cmd("gban ?(.*)", allow_sudo=True))
-async def gspider(ULTRA):
+async def gspider(KINGFIGHTER):
     lol = ULTRA
     sender = await lol.get_sender()
     me = await lol.client.get_me()
