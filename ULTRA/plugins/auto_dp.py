@@ -1,4 +1,4 @@
-#Made By@LEGENDX22 Keep Credits If You Are Goanna Kang This Lol
+#Made By@Imteyaz_king Keep Credits If You Are Goanna Kang This Lol
 
 #And Thanks To The Creator Of Autopic This Script Was Made from Snippets From That Script
 
@@ -258,7 +258,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="actressdp$"))
 async def main(event):
-    await event.edit("Activated Actress Dp\nEnjoy 💜")
+    await event.edit("Activated Actress Dp\nEnjoy ⚔️")
     while True:
         await animeppactress()
         file = await event.client.upload_file("donottouch.jpg")
@@ -273,7 +273,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="animedp$"))
 async def main(event):
-    await event.edit("Activated Anime Dp\nEnjoy 💜")
+    await event.edit("Activated Anime Dp\nEnjoy ⚔️")
     while True:
         await animepppoke()
         file = await event.client.upload_file("donottouch.jpg")
@@ -288,7 +288,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="avengersdp$"))
 async def main(event):
-    await event.edit("Activated Avengers Dp\nEnjoy 💜")
+    await event.edit("Activated Avengers Dp\nEnjoy ⚔️")
     while True:
         await animeppaven()
         file = await event.client.upload_file("donottouch.jpg")
@@ -303,7 +303,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="gamerdp$"))
 async def main(event):
-    await event.edit("Activated Gamers Dp\nEnjoy 💜")
+    await event.edit("Activated Gamers Dp\nEnjoy ⚔️")
     while True:
         await animeppgame()
         file = await event.client.upload_file("donottouch.jpg")
@@ -318,7 +318,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="hackerdp$"))
 async def main(event):
-    await event.edit("Activated Hackers Dp\nEnjoy 💜")
+    await event.edit("Activated Hackers Dp\nEnjoy ⚔️")
     while True:
         await animepphack()
         file = await event.client.upload_file("donottouch.jpg")
@@ -333,7 +333,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="spacedp$"))
 async def main(event):
-    await event.edit("Activated Space Dp\nEnjoy 💜")
+    await event.edit("Activated Space Dp\nEnjoy ⚔️")
     while True:
         await animeppspace()
         file = await event.client.upload_file("donottouch.jpg")
@@ -348,7 +348,7 @@ async def main(event):
 
 @bot.on(admin_cmd(pattern="wallpapers$"))
 async def main(event):
-    await event.edit("Activated Wallappers on your DP\nEnjoy 💜")
+    await event.edit("Activated Wallappers on your DP\nEnjoy ⚔️")
     while True:
         await animeppwall()
         file = await event.client.upload_file("donottouch.jpg")
