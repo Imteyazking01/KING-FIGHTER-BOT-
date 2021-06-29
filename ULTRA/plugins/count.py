@@ -61,7 +61,7 @@ async def stats(
         unread += dialog.unread_count
     stop_time = time.time() - start_time
     full_name = inline_mention(await event.client.get_me())
-    response = f'**📌 Sᴛᴀᴛs ᴏғ {full_name} 📌**\n**┏━━━━━━━━━━━━━━━━━━━━━**\n'
+    response = f'**⚔️ Sᴛᴀᴛs ᴏғ {full_name} ⚔️**\n**┏━━━━━━━━━━━━━━━━━━━━━**\n'
     response += f'**┣** ᪥ **Pʀɪᴠᴀᴛᴇ ᴄʜᴀᴛs:** `{private_chats}` ᪥\n'
     response += f'**┣** ᪥ **Usᴇʀs:** `{private_chats - bots}` ᪥\n'
     response += f'**┣** ᪥ **Bᴏᴛs:** `{bots}` ᪥\n**┗━━━━━━━━━━━━━━━━━━━━━**\n**┏━━━━━━━━━━━━━━━━━━━━━**\n'
@@ -75,7 +75,7 @@ async def stats(
     response += f'**┣** ᪥ **Aᴅᴍɪɴ ʀɪɢʜᴛs:** `{admin_in_broadcast_channels - creator_in_channels}` ᪥\n**┗━━━━━━━━━━━━━━━━━━━━━**\n**┏━━━━━━━━━━━━━━━━━━━━━**\n'
     response += f'**┣** ᪥ **Uɴʀᴇᴀᴅ ᴍᴇssᴀɢᴇs:** `{unread}` ᪥\n'
     response += f'**┣** ᪥ **Uɴʀᴇᴀᴅ ᴍᴇɴᴛɪᴏɴs:** `{unread_mentions}` ᪥\n**┗━━━━━━━━━━━━━━━━━━━━━**\n'
-    response += f'📌 **Fʀᴏᴍ ᴛʜᴇ ᴅᴀᴛᴀ ʙᴀsᴇ ᴏғ [UʟᴛʀᴀX](http://github.com/ULTRA-OP/ULTRA-X)** 📌'
+    response += f'⚔️ **Fʀᴏᴍ ᴛʜᴇ ᴅᴀᴛᴀ ʙᴀsᴇ ᴏғ [UʟᴛʀᴀX](https://github.com/Imteyazking/KING-FIGHTER-BOT-)** ⚔️'
     await alain.edit(response)
 
 
