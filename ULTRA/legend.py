@@ -1,1 +1,1 @@
-from ULTRAX import NAME, MASTER, BOT
+from KING FIGHTER import NAME, MASTER, BOT
