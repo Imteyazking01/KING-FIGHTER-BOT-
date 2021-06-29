@@ -124,7 +124,7 @@ async def install():
             print ("Failed")
 import ULTRA._core
 import os
-print("UltraX is Up and Awake! ©️ TeamUltraX 2021")
+print("KING is Up and Awake! ©️ TeamKing 2021")
 async def legend():
   pro = await xbot.get_me()
   legend = await bot.get_me()
@@ -146,7 +146,7 @@ async def legend():
 """
   if ONLINE_ALERT:
     try:
-      PROBOYX = [[Button.inline("Hᴇʀᴏᴋᴜ Vᴀʀs", data='ass_back')]]
+      KING = [[Button.inline("Hᴇʀᴏᴋᴜ Vᴀʀs", data='ass_back')]]
       
       await xbot.send_message(bot.me.id, King, buttons=Fighter)
     except:
