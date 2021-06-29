@@ -139,8 +139,8 @@ async def legend():
 
 **➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@UltraXchaT**
-**➥ Cʜᴀɴɴᴇʟ** `➪` **@UltraX_SupporT**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@Imteyaz_info**
+**➥ Cʜᴀɴɴᴇʟ** `➪` **@King_fighter_Bot_support**
 
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """
@@ -148,7 +148,7 @@ async def legend():
     try:
       PROBOYX = [[Button.inline("Hᴇʀᴏᴋᴜ Vᴀʀs", data='ass_back')]]
       
-      await xbot.send_message(bot.me.id, LEGENDX, buttons=PROBOYX)
+      await xbot.send_message(bot.me.id, King, buttons=Fighter)
     except:
        pass
   else:
