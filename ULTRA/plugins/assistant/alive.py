@@ -1,4 +1,4 @@
-# COPYRIGHT (C) 2021-2022 BY LEGENDX22
+# COPYRIGHT (C) 2021-2022 BY Imteyaz
 # modify by madboy482 and alain_champion
 
 from ULTRA import bot
