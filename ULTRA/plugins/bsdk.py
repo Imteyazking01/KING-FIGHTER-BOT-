@@ -32,6 +32,8 @@ async def _(event):
             "**Yeahhhhhh**",
             "`AUR KITNA BOLU BEY MANN BHAR GAYA MERA🤣`",
             "**Ab nikal ja jaake chkko k saath hilaa**",
+            "**King fighter tera baap jai air sunega**",
+            "**Randi ke bsdk nikal NHi to Imteyaz aajayega**",
             "`😂😂😂🤣🤣`"
         ]
 
