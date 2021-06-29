@@ -38,8 +38,8 @@ async def amireallyalive(awake):
      ALIVE_MESSAGE += f"✧ 𝚄𝙻𝚃𝚁𝙰 𝚇 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : `{VERSION}`\n\n"
 #     ALIVE_MESSAGE += f"✧ 𝚄𝙿𝚃𝙸𝙼𝙴 : {uptm}\n\n"
      ALIVE_MESSAGE += f"✧ 𝙼𝚈 𝙱𝙾𝚂𝚂 : [{DEFAULTUSER}](tg://user?id={tag})\n\n"
-     ALIVE_MESSAGE += "✧ 𝙶𝚁𝙾𝚄𝙿 : [SUPPORT](https://t.me/ULTRAXOT)\n\n"
-     ALIVE_MESSAGE += f"✧ [𝙳𝙴𝙿𝙻𝙾𝚈](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2HEROKU) 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙾𝙿 [{BOT}](http://github.com/ULTRA-OP/ULTRA-X) ✧\n"   
+     ALIVE_MESSAGE += "✧ 𝙶𝚁𝙾𝚄𝙿 : [SUPPORT](https://t.me/King_fighter_Bot_support)\n\n"
+     ALIVE_MESSAGE += f"✧ [𝙳𝙴𝙿𝙻𝙾𝚈](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2HEROKU) 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙾𝙿 [{BOT}](https://github.com/Imteyazking/KING-FIGHTER-BOT-) ✧\n"   
      await awake.delete() 
      await borg.send_file(awake.chat_id, PHOTO,caption=ALIVE_MESSAGE)
    elif PHOTO == None:
@@ -50,7 +50,7 @@ async def amireallyalive(awake):
      ALIVE_MESSAGE += "\n\n"
      ALIVE_MESSAGE += "**✥✥ 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂 ✥✥**\n\n"
      ALIVE_MESSAGE += "✧ 𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : `1.19.5`\n\n"
-     ALIVE_MESSAGE += f"✧ 𝚄𝙻𝚃𝚁𝙰 𝚇 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : `{VERSION}`\n\n"
+     ALIVE_MESSAGE += f"✧ KING  𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : `{VERSION}`\n\n"
 #     ALIVE_MESSAGE += f"✧ 𝚄𝙿𝚃𝙸𝙼𝙴 : {uptm}\n\n"
      ALIVE_MESSAGE += f"✧ 𝙼𝚈 𝙱𝙾𝚂𝚂 : [{DEFAULTUSER}](tg://user?id={tag})\n\n"
      ALIVE_MESSAGE += "✧ 𝙶𝚁𝙾𝚄𝙿 : [SUPPORT](https://t.me/UltraXOT)\n\n"
