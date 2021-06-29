@@ -40,6 +40,6 @@ MASTER = f"[{NAME}](tg://user?id={X})"
 GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+ALIVE = "KING FIGHTER вσт ιѕ ση 🔥 ƒιяє 🔥" 
+OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ KING FIGHTER вσт ι αм тнє вєѕт υѕєявσт 💝"
 EMOJI = "🔥"
