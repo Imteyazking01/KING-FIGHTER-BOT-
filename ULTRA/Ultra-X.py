@@ -1,4 +1,4 @@
-#Copyright 2021-2022 Ultra X Bot
+#Copyright 2021-2022 KING FIGHTER Bot
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
@@ -18,8 +18,8 @@ import os
 import datetime
 #importing finished
 from ULTRA import botnickname 
-BOT = str(botnickname) if botnickname else "υℓтяα χ вσт"
-NAME = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ вσу"
+BOT = str(botnickname) if botnickname else "KING FIGHTER вσт"
+NAME = str(ALIVE_NAME) if ALIVE_NAME else "KING FIGHTER вσу"
 tim = get_readable_time((time.time() - StartTime))
 #pic 👇
 PIC = os.environ.get("ALIVE_PIC")
