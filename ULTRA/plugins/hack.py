@@ -1,4 +1,4 @@
-# credits @legendx22
+# credits @Imteyaz_king
 # Kang with credits else gay..
 import os
 """
@@ -28,7 +28,7 @@ async def _(event):
 
     animation_chars = [
         
-            "`Installing Files To Hacked Private Server...`",
+            "`Installing Files To Hacked Private Server King fighter...`",
             "`Target Selected.`",
             "`Installing... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Installing... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
@@ -120,7 +120,7 @@ async def _(event):
     if h==5:
         await event.edit("`pdf created click link below to download data\n\n😂 Don't worry only i can open this 😎😎.. If u don't Believe try to download` 🙂\n\nhttps://drive.google.com/file/d/1hPUfr27UtU0XjtC20lXjY9G3D9jR5imj/view?usp=sharing")
 
- # Made for ULTRA X     
+ # Made for KING FIGHTER     
 CMD_HELP.update({
     "hack":"ye plug-in logo ka chutia banane me kaam aaata h use .hack"})   
 # hmm
