@@ -21,7 +21,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking01/KING-FIGHTER-BOT-&template=https://github.com/Imteyazking01/KING-FIGHTER-BOT-)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking01/KING-FIGHTER-BOT-HEROKU&template=https://github.com/Imteyazking01/KING-FIGHTER-BOT-HEROKU)
 
 ------------------------------------------------
 
